@@ -1,6 +1,6 @@
 # kryptokoinz
-
-A new Flutter project.
+Flutter application
+Google sign in to view cryptocurrency listings data.
 
 ## Getting Started
 
