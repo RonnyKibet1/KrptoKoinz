@@ -1,6 +1,9 @@
 # kryptokoinz
 Flutter application
 Google sign in to view cryptocurrency listings data.
+![alt text](https://ibb.co/0QCqkqb)
+![alt text](https://ibb.co/x3DbcTF)
+
 
 ## Getting Started
 
