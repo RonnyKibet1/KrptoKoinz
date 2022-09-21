@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "189901281756",
+    "project_id": "kryptokoinz-769ff",
+    "storage_bucket": "kryptokoinz-769ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189901281756:android:2a13795e75bcc2bd871719",
+        "android_client_info": {
+          "package_name": "com.teamappcreative.kryptokoinz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189901281756-701nof7t8059l7gt3ps8imn1icukjmq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamappcreative.kryptokoinz",
+            "certificate_hash": "1e7b95eebba6e91af01c5d865a68a65dabc07682"
+          }
+        },
+        {
+          "client_id": "189901281756-bomhiq85rmtp53v21vjb3r00tfcsmb46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVAkDxgQRR1wTBTYrlIb12aP3SyHu59ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189901281756-bomhiq85rmtp53v21vjb3r00tfcsmb46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
