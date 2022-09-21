@@ -2,7 +2,6 @@
 Flutter application
 Google sign in to view cryptocurrency listings data.
 ![alt text](https://i.ibb.co/3k7b8ZR/Screenshot-20220921-025048.jpg)
-![alt text](https://ibb.co/x3DbcTF)
 
 
 ## Getting Started
